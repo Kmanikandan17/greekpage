@@ -1,0 +1,45 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+    
+      color:rgb(15, 186, 55);
+      margin: 0px;     
+}
+mani{
+    margin-top:360px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    display: flex; 
+}
+p{
+  margin-top: 2px;
+}
+.parent{
+  background-color:rgb(15, 186, 55);
+  color: white;
+  display: flex;
+  height: 30px;
+  align-items: center; 
+}
+.a{
+  padding-left: 20px;
+}
+.b{
+ padding-left: 60px;
+}
+.c{
+  padding-left: 60px;
+}
+.d{
+  padding-left: 840px;
+}
+h4{
+  margin-left: 15px;
+}
+
+
+
+
